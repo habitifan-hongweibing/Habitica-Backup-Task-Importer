@@ -1,0 +1,5 @@
+{
+  "name": "Habitica Backup + Task Importer",
+  "description": "Create and manage backups of your Habitica tasks. Restore them to any account or share your productivity systems with friends.",
+  "requestFramePermissions": []
+}
