@@ -1,20 +1,9 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+Hi! My name is [@hongweibing](https://habitica.com/profile/d5edea78-6f44-43d6-83ef-fc9da1cbcae2) 
 
-# Run and deploy your AI Studio app
+Habitica Backup + Task Importer is your insurance against account loss and a tool for sharing productivity systems.
 
-This contains everything you need to run your app locally.
+I am a big fan of Habitica, and I am trying to make the experience of using it even better. On [this page](https://storm-girdle-c18.notion.site/Useful-tools-for-Habitica-26486e08ea8a80f791bbd192356d3c6c), I will post useful scripts, utilities, apps and other materials that may be useful to you. If you have any ready-made materials or ideas, you can write to me.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1fBxapM1fAt0svpP-YFooKV_YGj4l0w1W
+You can also give me a couple of gems if you find these materials useful :) But this is not necessary. The main thing is to develop yourself and achieve your goals! 
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Good luck!
